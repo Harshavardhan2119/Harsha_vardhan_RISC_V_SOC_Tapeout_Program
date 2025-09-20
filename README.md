@@ -1,18 +1,6 @@
 # Harsha_vardhan_RISC_V_SOC_Tapeout_Program
 RISC-V SoC Tapeout Program: End-to-end chip design &amp; silicon fabrication using Synopsys tools &amp; SCL180 process, combining RTL → GDSII with hands-on training.
 
-
-<div align="center">
-
-[![RISC-V](https://img.shields.io/badge/RISC--V-SoC%20Tapeout-blue?style=for-the-badge&logo=riscv)](https://riscv.org/)
-[![VSD](https://img.shields.io/badge/VSD-Program-orange?style=for-the-badge)](https://vsdiat.vlsisystemdesign.com/)
-![Participants](https://img.shields.io/badge/Participants-3500%2B-success?style=for-the-badge)
-![Made in India](https://img.shields.io/badge/Made%20in-India-ff9933?style=for-the-badge)
-
-</div>
-
----
-
 ## 📌 Overview
 
 This repository documents my journey through the **RISC-V SoC Tapeout Program** by **VSD (VLSI System Design)** — an initiative that enables participants to take a **System-on-Chip (SoC)** from **RTL to GDSII** using only **open-source tools**.
