@@ -1,4 +1,4 @@
-*** Summary of the Video: "DIGITAL VLSI DESIGN SOC AND PLANNING" ***
+***Summary of the Video: "DIGITAL VLSI DESIGN SOC AND PLANNING"***
 
 In the video, Sir Kunal Ghosh discusses the complete flow of chip development—from the initial idea to the final silicon.
 
